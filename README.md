@@ -2,11 +2,11 @@
 
 Eg driv for tida å vidareutdannar meg til å bli frontend utviklar.
 
-For tida er eg deltakar på kodekurset "Kodehode", i Bergen. No jobbar eg med å lære meg React, noko som er spanande mtp. kor mange mulighetar det er innanfor dette rammeverket!
+Akkurat no er eg deltakar på kodekurset "Kodehode", i Bergen. No jobbar eg med å lære meg React, noko som er spanande mtp. kor mange mulighetar det er innanfor dette rammeverket!
 Lager ein liten kaffi-app for tida, og ser fram til å lage nye i tida som kjem. 
 
-Tidlegare har eg har fått god kjennskap til HTML, CSS og ein del Javascript(lærer fortsatt), har også noko erfaring med Figma.
-Etter å begynt å bruke React, har det blitt meir og meir interessant å drive med dette og eg gler meg til å fortsette å lære meir!
+Tidlegare på kurset har eg tilegna meg god kjennskap til HTML, CSS og ein del Javascript(lærer fortsatt), har også noko erfaring med Figma.
+Etter å ha begynt å bruke React, har det blitt meir og meir interessant å drive med dette og eg gler meg til å fortsette å lære meir!
 
 
 
