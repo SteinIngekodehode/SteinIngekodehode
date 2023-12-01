@@ -1,4 +1,4 @@
-### HEI!
+### Hei!
 
 Eg driv for tida å vidareutdannar meg til å bli frontend utviklar.
 
