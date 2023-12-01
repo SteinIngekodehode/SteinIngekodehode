@@ -1,12 +1,10 @@
 ### Hei!
 
-Eg driv for tida å vidareutdannar meg til å bli frontend utviklar.
-
-Akkurat no er eg deltakar på kodekurset "Kodehode", i Bergen. No jobbar eg med å lære meg React, noko som er spanande mtp. kor mange mulighetar det er innanfor dette rammeverket!
-Lager ein liten kaffi-app for tida, og ser fram til å lage nye i tida som kjem. 
-
-Tidlegare på kurset har eg tilegna meg god kjennskap til HTML, CSS og ein del Javascript(lærer fortsatt), har også noko erfaring med Figma.
-Etter å ha begynt å bruke React, har det blitt meir og meir interessant å drive med dette og eg gler meg til å fortsette å lære meir!
+Eg jobbar for tida med å omskulere meg til å bli frontend-utviklar.
+Det siste året har eg brukt tida på å lære meg HTML, CSS, Javascript og React.
+Det er utfordrande, men givande når ein står igjen med eit produkt ein har laga sjølv.
+Eit reint og ryddig design, er det eg tilstrebar å få til.
+Ta kontakt viss du ønsker å ansette nokon som er villig til å legge ned innsatsen som trengs for å bli ein ressurs i di bedrift”!
 
 
 
