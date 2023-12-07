@@ -4,7 +4,7 @@ Eg jobbar for tida med å omskulere meg til å bli frontend-utviklar.
 Det siste året har eg brukt tida på å lære meg HTML, CSS, Javascript og React.
 Det er utfordrande, men givande når ein står igjen med eit produkt ein har laga sjølv.
 Eit reint og ryddig design, er det eg tilstrebar å få til.
-Ta kontakt viss du ønsker å ansette nokon som er villig til å legge ned innsatsen som trengs for å bli ein ressurs i di bedrift”!
+Ta kontakt viss du ønsker å ansette nokon som er villig til å legge ned innsatsen som trengs for å bli ein ressurs i di bedrift!
 
 
 
